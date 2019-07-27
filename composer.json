@@ -1,0 +1,13 @@
+{
+    "name": "rmuskovets/php-db-interface",
+    "description": "PHP OOP MySQL database interface",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "RMuskovets",
+            "email": "rmuskovets@gmail.com"
+        }
+    ],
+    "require": {}
+}
